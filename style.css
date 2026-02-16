@@ -1,0 +1,19 @@
+body{
+    background-color: off-white;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+h1{
+    color:blue;
+   
+    font-size: 70px;
+}
+p{
+    color:green;
+    font-size: 30px;
+}
+img{
+   height: 300px; 
+   width: 300px;
+}
